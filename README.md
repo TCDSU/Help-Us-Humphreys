@@ -1,4 +1,4 @@
-#FuelPHP
+# Help Us Humphreys
 
 * Version: 1.3
 * [Website](http://fuelphp.com/)
