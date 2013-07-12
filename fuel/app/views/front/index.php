@@ -14,12 +14,6 @@
         <link href='http://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
 
         <?=Asset::css('bootstrap.min.css')?>
-        <style>
-            body {
-                padding-top: 60px;
-                padding-bottom: 40px;
-            }
-        </style>
         <?=Asset::css('bootstrap-responsive.min.css')?>
         <?=Asset::css('main.css')?>
 
